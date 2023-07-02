@@ -14,6 +14,8 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "hidden";
         document.getElementById("susumu8").style.visibility = "hidden";
         document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
     //   console.log ("Thank you");
     },
     false
@@ -32,6 +34,8 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "hidden";
         document.getElementById("susumu8").style.visibility = "hidden";
         document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
 
     },
     false
@@ -50,6 +54,8 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "hidden";
         document.getElementById("susumu8").style.visibility = "hidden";
         document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
 
     },
     false
@@ -67,6 +73,8 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "hidden";
         document.getElementById("susumu8").style.visibility = "hidden";
         document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
 
     },
     false
@@ -85,6 +93,8 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "hidden";
         document.getElementById("susumu8").style.visibility = "hidden";
         document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
 
     },
     false
@@ -103,6 +113,8 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "hidden";
         document.getElementById("susumu8").style.visibility = "hidden";
         document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
 
     },
     false
@@ -120,6 +132,8 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "visible";
         document.getElementById("susumu8").style.visibility = "hidden";
         document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
 
     },
     false
@@ -138,6 +152,8 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "hidden";
         document.getElementById("susumu8").style.visibility = "visible";
         document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
 
     },
     false
@@ -156,6 +172,46 @@ document.querySelector("#kakunou").addEventListener(
         document.getElementById("susumu7").style.visibility = "hidden";
         document.getElementById("susumu8").style.visibility = "hidden";
         document.getElementById("susumu9").style.visibility = "visible";
+        document.getElementById("susumu10").style.visibility = "hidden";
+        document.getElementById("bigRespect").style.visibility = "hidden";
+
+    },
+    false
+  );
+  document.querySelector("#kakunouR").addEventListener(
+    "click",
+    function () {
+        // console.log ("Thank you");
+        document.getElementById("susumu1").style.visibility = "hidden";
+        document.getElementById("susumu2").style.visibility = "hidden";
+        document.getElementById("susumu3").style.visibility = "hidden";
+        document.getElementById("susumu4").style.visibility = "hidden";
+        document.getElementById("susumu5").style.visibility = "hidden";
+        document.getElementById("susumu6").style.visibility = "hidden";
+        document.getElementById("susumu7").style.visibility = "hidden";
+        document.getElementById("susumu8").style.visibility = "hidden";
+        document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "visible";
+        document.getElementById("bigRespect").style.visibility = "hidden";
+
+    },
+    false
+  );
+  document.querySelector("#setumeiR").addEventListener(
+    "click",
+    function () {
+        // console.log ("Thank you");
+        document.getElementById("susumu1").style.visibility = "hidden";
+        document.getElementById("susumu2").style.visibility = "hidden";
+        document.getElementById("susumu3").style.visibility = "hidden";
+        document.getElementById("susumu4").style.visibility = "hidden";
+        document.getElementById("susumu5").style.visibility = "hidden";
+        document.getElementById("susumu6").style.visibility = "hidden";
+        document.getElementById("susumu7").style.visibility = "hidden";
+        document.getElementById("susumu8").style.visibility = "hidden";
+        document.getElementById("susumu9").style.visibility = "hidden";
+        document.getElementById("susumu10").style.visibility = "visible";
+        document.getElementById("bigRespect").style.visibility = "visible";
 
     },
     false
