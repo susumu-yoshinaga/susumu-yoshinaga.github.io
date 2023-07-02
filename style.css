@@ -1,16 +1,13 @@
 .h2 {
     color: red;
 }
-
 .idList {
     width: 1000px;
     height: 1000px;
     padding: 0;
     position: relative
-    
+
 }
-
-
 .idList img {
     position: absolute;
     bottom: 150px;
@@ -20,37 +17,36 @@
 }
 #susumu1{
     visibility:hidden;
-
 }
 #susumu2{
     visibility:hidden;
-
 }
 #susumu3{
     visibility:hidden;
-
 }
 #susumu4{
     visibility:hidden;
-
 }
 #susumu5{
     visibility:hidden;
-
 }
 #susumu6{
     visibility:hidden;
-
 }
 #susumu7{
     visibility:hidden;
-
 }
 #susumu8{
     visibility:hidden;
-
 }
 #susumu9{
     visibility:hidden;
+}
 
+#bigRespect{
+    visibility:hidden;
+}
+
+#susumu10{
+    visibility:hidden;
 }
